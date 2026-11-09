@@ -18,4 +18,4 @@ Mining cooldown is disabled by default.
 
 ## Contact
 
-Discord official mod dev (not me): [Discord](https://discord.gg/8Mm3g3T5re)
+Feel free to join my [Discord](https://discord.gg/8Mm3g3T5re)

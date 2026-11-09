@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "nmc",
+  "id": "modernfix",
   "version": "${version}",
-  "name": "No Mining Cooldown",
-  "description": "Fixes the client-side block breaking delay; this feature is toggleable with the key bound to \"Toggle Mining Cooldown\" under miscellaneous.",
+  "name": "ModernFix",
+  "description": "All-in-one mod that improves performance",
   "authors": [
-    "Daxanius"
+    "embeddedt"
   ],
   "contact": {},
   "license": "GNU GPLv3",
@@ -13,12 +13,12 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "me.daxanius.nmc.FabricNoMiningCooldownClient"
+      "me.embeddedt.modernfix.FabricNoMiningCooldownClient"
     ]
   },
   "mixins": [
-    "nmc.mixins.json",
-    "nmc.fabric.mixins.json"
+    "modernfix.mixins.json",
+    "modernfix.fabric.mixins.json"
   ],
   "depends": {
     "minecraft": ">=${minecraft_version}",

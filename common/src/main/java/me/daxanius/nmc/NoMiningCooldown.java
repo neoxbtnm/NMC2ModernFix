@@ -1,6 +1,6 @@
-package me.daxanius.nmc;
+package me.embeddedt.modernfix;
 
-import me.daxanius.nmc.platform.Services;
+import me.embeddedt.modernfix.platform.Services;
 import net.minecraft.client.KeyMapping;
 import net.minecraft.network.chat.Component;
 

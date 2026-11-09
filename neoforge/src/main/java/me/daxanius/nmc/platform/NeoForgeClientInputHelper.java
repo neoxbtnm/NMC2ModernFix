@@ -1,7 +1,7 @@
-package me.daxanius.nmc.platform;
+package me.embeddedt.modernfix.platform;
 
-import me.daxanius.nmc.Constants;
-import me.daxanius.nmc.platform.services.IClientInputHelper;
+import me.embeddedt.modernfix.Constants;
+import me.embeddedt.modernfix.platform.services.IClientInputHelper;
 import net.minecraft.client.KeyMapping;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;

@@ -1,4 +1,4 @@
-package me.daxanius.nmc;
+package me.embeddedt.modernfix;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

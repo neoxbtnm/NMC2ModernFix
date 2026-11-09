@@ -1,6 +1,6 @@
-package me.daxanius.nmc.mixin;
+package me.embeddedt.modernfix.mixin;
 
-import me.daxanius.nmc.NoMiningCooldown;
+import me.embeddedt.modernfix.NoMiningCooldown;
 import net.minecraft.client.multiplayer.MultiPlayerGameMode;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.Constant;

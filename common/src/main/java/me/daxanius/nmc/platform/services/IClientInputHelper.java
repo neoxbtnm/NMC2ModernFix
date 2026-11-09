@@ -1,4 +1,4 @@
-package me.daxanius.nmc.platform.services;
+package me.embeddedt.modernfix.platform.services;
 
 import net.minecraft.client.KeyMapping;
 

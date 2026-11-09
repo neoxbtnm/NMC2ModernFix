@@ -1,4 +1,4 @@
-package me.daxanius.nmc;
+package me.embeddedt.modernfix;
 
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.IEventBus;
